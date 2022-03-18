@@ -1,4 +1,4 @@
-Artwork Gallery Project - frontend
+# Artwork Gallery Project - frontend
 
 A team project, made by bsamu, KacagoHollo, klikknpro. 
 Creating a gallery app with fetched data from The Cleveland Museum of Art Open Access API (https://openaccess-api.clevelandart.org/). 
@@ -11,3 +11,6 @@ This is the frontend part, the App works perfectly with the backend side: https:
 Being made by React.
 
 For more about React and its usage see the README.md at the src folder.
+
+![image](https://user-images.githubusercontent.com/64640272/159058805-7c754414-c6e3-4df4-874a-440467e69abd.png)
+
